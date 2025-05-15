@@ -1,0 +1,63 @@
+body {
+    padding-top: 56px;
+    background: linear-gradient(135deg, #e0f7fa, #fffde7);
+  }
+
+  .hero {
+    background: linear-gradient(rgba(0, 100, 0, 0.5), rgba(0, 100, 0, 0.5)), url('https://via.placeholder.com/1200x400?text=Kalamansi+Segar+Asri') center center/cover no-repeat;
+    height: 400px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-body h5 {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .col-md-6 p {
+    text-align: left;
+  }
+
+  .container a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+
+  .navbar-nav .nav-link {
+      transition: color 0.3s ease;
+    }
+    .navbar-nav .nav-link:hover {
+      color: #ffcc00; 
+      background-color: rgba(255, 255, 255, 0.1); 
+    }
+
+  .hero h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+  }
+
+  .hero p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+  }
+
+  section { 
+    background: #ffffffcc;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+
+  footer {
+    background: linear-gradient(to right, #388e3c, #66bb6a);
+    margin-top: 100px;
+  }
+
+  p {
+    text-align: center;
+  }
